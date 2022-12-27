@@ -1,0 +1,20 @@
+.projects-page {
+    margin-top: 100px;
+    text-align: center;
+    background-color: #f5fafa;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.projects {
+    margin-top: 40px;
+    
+}
+
+.projects-ss {
+    height: 400px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+    border-radius: 10px;
+    
+}
+
