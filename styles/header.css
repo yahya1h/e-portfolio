@@ -67,3 +67,15 @@ nav {
     font-size: 30px;
     margin-left: 12px;
 } 
+
+.social-links {
+    height: 50px;
+    width: 30px;
+    color: white;
+    margin-left: 10px;
+    transition: 0.2s;
+}
+
+.social-links:hover {
+    transform: scale(1.1);
+}
